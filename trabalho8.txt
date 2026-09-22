@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testel.txt
 trabalho2.txt
+=======
+alalalalalalalalalaalal
+>>>>>>> 14310c54d813253e234c5f540034132f1db09e81
